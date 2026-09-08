@@ -1,1 +1,1 @@
-" end to end /rag project
+" end to end rag project
