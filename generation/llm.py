@@ -1,4 +1,3 @@
-"""Returns the configured OpenAI chat model. TODO: Day 2."""
 """
 Single place that decides which chat model/config to use — prompt.py,
 routing, and the backend all just call get_llm() and don't care about

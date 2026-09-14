@@ -1,4 +1,3 @@
-"""Wraps the persisted vector store as a LangChain retriever. """
 """
 Separated so "how many chunks to retrieve" / "which persisted store to use"
 lives in one place — routing and generation just call get_retriever() and

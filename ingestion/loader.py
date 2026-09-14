@@ -1,4 +1,3 @@
-"""Loads raw documents from disk. """
 """
 Separated from splitting/embedding so "how do I get documents in" can be
 swapped (folder, single file, future URL loader) without touching anything

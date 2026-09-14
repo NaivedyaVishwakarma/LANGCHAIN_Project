@@ -1,4 +1,3 @@
-"""Splits documents into retrievable chunk. """
 """
 Separated so chunking strategy (size/overlap/splitter type) can change
 without touching how documents are loaded or how they get embedded.
