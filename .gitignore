@@ -219,5 +219,5 @@ __marimo__/
 
 # Local project files
 rag-venv/
-vectorstore/
+
 .vscode/
